@@ -10,6 +10,8 @@ public class Merhaba {
             System.out.println("Merhaba Dunya");
 
         }
+        System.out.println("merhaba 4");
+
 
     }
 }
